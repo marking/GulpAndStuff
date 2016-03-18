@@ -1,23 +1,27 @@
 {
-  "name": "gulpandstuff",
-  "version": "1.0.0",
-  "description": "test of using gulp with aspnet mvc",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Mark Ingalls",
-  "license": "MIT",
-  "devDependencies": {
-    "del": "^2.2.0",
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.0",
-    "gulp-di": "0.0.31",
-    "gulp-if": "^2.0.0",
-    "gulp-merge": "^0.1.1",
-    "gulp-print": "^2.0.1",
-    "gulp-uglify": "^1.5.3",
-    "vinyl-paths": "^2.1.0",
-    "yargs": "^4.3.1"
-  }
+    "name": "gulpandstuff",
+    "version": "1.0.0",
+    "description": "test of using gulp with aspnet mvc",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marking/GulpAndStuff.git"
+    },
+    "author": "Mark Ingalls",
+    "license": "MIT",
+    "devDependencies": {
+        "del": "^2.2.0",
+        "gulp": "^3.9.1",
+        "gulp-concat": "^2.6.0",
+        "gulp-di": "0.0.31",
+        "gulp-if": "^2.0.0",
+        "gulp-merge": "^0.1.1",
+        "gulp-print": "^2.0.1",
+        "gulp-uglify": "^1.5.3",
+        "vinyl-paths": "^2.1.0",
+        "yargs": "^4.3.1"
+    }
 }
